@@ -23,7 +23,7 @@ export default function App() {
   });
 
   return (
-    <Background >
+    <Background>
       <StatusBar 
       barStyle="light-content" 
       backgroundColor="transparent" 
